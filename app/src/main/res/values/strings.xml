@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weightLabel">Weight(kg)</string>
+    <string name="appHeader">Body Mass Index Calculator</string>
+    <string name="heightLabel">Height(m)</string>
+    <string name="calculateButtonLabel">Calculate</string>
+    <string name="resultLabel">Your Body Mass Index: %1$s \n\n BMI VALUES \n Underweight: less than 18.5 \n Normal: between 18.5 and 24.9 \n Overweight: between 25 and 29.9 \n Obese: 30 or greater
+ </string>
+</resources>
